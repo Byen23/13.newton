@@ -1,4 +1,4 @@
-# 13.newton
+# 13.Newton.py
 Approximating Square Roots.
 
 # Request - Write a program that computes square roots.
